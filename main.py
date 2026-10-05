@@ -1,8 +1,7 @@
 def main():
 
-    print("I hate programming in Python!")
-    print("I am a cat")
-
+    print("I love programming in Python! and I am a cat")
+    print("I want to sleep all day and play with my toys")
 
 
 
