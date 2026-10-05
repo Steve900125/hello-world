@@ -1,6 +1,8 @@
 def main():
 
-    print("Hello monkey and cat")
+    print("I hate programming in Python!")
+    print("I am a cat")
+
 
 
 
