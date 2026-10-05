@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虛擬環境
+.venv/
+venv/
+env/
+
+# 套件 / 建置
+*.egg-info/
+dist/
+build/
+
+# 測試 / 快取
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 環境變數、金鑰
+.env
